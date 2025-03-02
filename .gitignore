@@ -26,6 +26,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 venv
+.env
+.venv/
+__pycache__/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
